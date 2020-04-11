@@ -8,3 +8,6 @@ TESTEST
 TESTEST
 TESTEST
 TESTESTTESTEST
+
+-feature-C
+-feature-C2
